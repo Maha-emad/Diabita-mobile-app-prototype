@@ -1,1 +1,0 @@
-# Diabita-mobile-app-prototype
