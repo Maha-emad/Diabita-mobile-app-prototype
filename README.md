@@ -8,10 +8,10 @@ It's a prototype for a mobile application that helps diabetic patients to live a
  
 ## The prototype studies the following
  - The problem we are trying to solve 
- - Howmighth we solve the problem 
+ - How might we solve the problem 
  - the selected solutions for that problem  
- - Users personaassignment
- - Business model canvase  
+ - User persona assignment
+ - Business model canvas  
  - Empathy map  
  - actionable point of view  
  - Value proposition 
